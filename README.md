@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java 8+, SpringBoot, Microservice, Apache Kafka, DSA<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for new position in MNC<br>🌱 I’m currently learning DSA and Kafka<br>💬 Ask me about<br>
+🔭 I’m currently working on Java 8+, SpringBoot, Microservice, Apache Kafka, DSA<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for new position in MNC<br>🌱 I’m currently started my with DSA and Kafka<br>💬 Ask me about<br>
 
 
 # 💻 Tech Stack:
